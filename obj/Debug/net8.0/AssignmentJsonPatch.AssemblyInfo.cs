@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AssignmentJsonPatch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c96704642de244867e265d012063a352706f7e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d134b43a1faa0d0d012933a4e10e4a95853599bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("AssignmentJsonPatch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AssignmentJsonPatch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
